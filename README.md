@@ -1,2 +1,2 @@
-# gears
+# GEARS
 An ArmA 3 Modification
