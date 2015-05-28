@@ -2185,6 +2185,7 @@ class CfgVehicles
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_CORE_C";
 		uniformClass = "CryeScuba_BK_01";
+		uniformType = "Neopren";
         hiddenSelections[] = {"Camo","Camo3","Insignia"};
         hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\crye\core\data\crye_bk_01_co.paa","\GEARS_CORE\clothing\cryeshirts\core\data\basicbody_bk.paa"};
 	};
@@ -2198,6 +2199,7 @@ class CfgVehicles
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_CORE_C";
 		uniformClass = "CryeScuba_BK_02";
+		uniformType = "Neopren";
         hiddenSelections[] = {"Camo","Camo3","Insignia"};
         hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\crye\core\data\crye_bk_02_co.paa","\GEARS_CORE\clothing\cryeshirts\core\data\basicbody_bk.paa"};
 	};
@@ -2211,6 +2213,7 @@ class CfgVehicles
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_CORE_C";
 		uniformClass = "CryeScuba_BK_03";
+		uniformType = "Neopren";
         hiddenSelections[] = {"Camo","Camo3","Insignia"};
         hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\crye\core\data\crye_bk_03_co.paa","\GEARS_CORE\clothing\cryeshirts\core\data\basicbody_bk.paa"};
 	};
@@ -2224,6 +2227,7 @@ class CfgVehicles
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_CORE_C";
 		uniformClass = "CryeScuba_BK_04";
+		uniformType = "Neopren";
         hiddenSelections[] = {"Camo","Camo3","Insignia"};
         hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\crye\core\data\crye_bk_04_co.paa","\GEARS_CORE\clothing\cryeshirts\core\data\basicbody_bk.paa"};
 	};
@@ -2237,6 +2241,7 @@ class CfgVehicles
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_CORE_C";
 		uniformClass = "CryeScuba_BK_05";
+		uniformType = "Neopren";
         hiddenSelections[] = {"Camo","Camo3","Insignia"};
         hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\crye\core\data\crye_bk_05_co.paa","\GEARS_CORE\clothing\cryeshirts\core\data\basicbody_bk.paa"};
 	};
@@ -2250,6 +2255,7 @@ class CfgVehicles
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_CORE_C";
 		uniformClass = "CryeScuba_BK_06";
+		uniformType = "Neopren";
         hiddenSelections[] = {"Camo","Camo3","Insignia"};
         hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\crye\core\data\crye_bk_06_co.paa","\GEARS_CORE\clothing\cryeshirts\core\data\basicbody_bk.paa"};
 	};
@@ -2263,6 +2269,7 @@ class CfgVehicles
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_CORE_C";
 		uniformClass = "CryeScuba_BK_07";
+		uniformType = "Neopren";
         hiddenSelections[] = {"Camo","Camo3","Insignia"};
         hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\crye\core\data\crye_bk_07_co.paa","\GEARS_CORE\clothing\cryeshirts\core\data\basicbody_bk.paa"};
 	};
@@ -2276,6 +2283,7 @@ class CfgVehicles
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_CORE_C";
 		uniformClass = "CryeScuba_BK_08";
+		uniformType = "Neopren";
         hiddenSelections[] = {"Camo","Camo3","Insignia"};
         hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\crye\core\data\crye_bk_08_co.paa","\GEARS_CORE\clothing\cryeshirts\core\data\basicbody_bk.paa"};
 	};
@@ -2289,6 +2297,7 @@ class CfgVehicles
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_CORE_C";
 		uniformClass = "CryeScuba_BK_09";
+		uniformType = "Neopren";
         hiddenSelections[] = {"Camo","Camo3","Insignia"};
         hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\crye\core\data\crye_bk_09_co.paa","\GEARS_CORE\clothing\cryeshirts\core\data\basicbody_bk.paa"};
 	};
@@ -2302,6 +2311,7 @@ class CfgVehicles
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_CORE_C";
 		uniformClass = "CryeScuba_BK_10";
+		uniformType = "Neopren";
         hiddenSelections[] = {"Camo","Camo3","Insignia"};
         hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\crye\core\data\crye_bk_10_co.paa","\GEARS_CORE\clothing\cryeshirts\core\data\basicbody_bk.paa"};
 	};
@@ -2315,6 +2325,7 @@ class CfgVehicles
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_CORE_C";
 		uniformClass = "CryeScuba_BK_11";
+		uniformType = "Neopren";
         hiddenSelections[] = {"Camo","Camo3","Insignia"};
         hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\crye\core\data\crye_bk_11_co.paa","\GEARS_CORE\clothing\cryeshirts\core\data\basicbody_bk.paa"};
 	};
@@ -2328,6 +2339,7 @@ class CfgVehicles
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_CORE_C";
 		uniformClass = "CryeScuba_BK_12";
+		uniformType = "Neopren";
         hiddenSelections[] = {"Camo","Camo3","Insignia"};
         hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\crye\core\data\crye_bk_12_co.paa","\GEARS_CORE\clothing\cryeshirts\core\data\basicbody_bk.paa"};
 	};
@@ -2341,6 +2353,7 @@ class CfgVehicles
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_CORE_C";
 		uniformClass = "CryeScuba_BK_13";
+		uniformType = "Neopren";
         hiddenSelections[] = {"Camo","Camo3","Insignia"};
         hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\crye\core\data\crye_bk_13_co.paa","\GEARS_CORE\clothing\cryeshirts\core\data\basicbody_bk.paa"};
 	};
@@ -2354,6 +2367,7 @@ class CfgVehicles
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_CORE_C";
 		uniformClass = "CryeScuba_BK_14";
+		uniformType = "Neopren";
         hiddenSelections[] = {"Camo","Camo3","Insignia"};
         hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\crye\core\data\crye_bk_14_co.paa","\GEARS_CORE\clothing\cryeshirts\core\data\basicbody_bk.paa"};
 	};
@@ -2367,6 +2381,7 @@ class CfgVehicles
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_CORE_C";
 		uniformClass = "CryeScuba_BK_15";
+		uniformType = "Neopren";
         hiddenSelections[] = {"Camo","Camo3","Insignia"};
         hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\crye\core\data\crye_bk_15_co.paa","\GEARS_CORE\clothing\cryeshirts\core\data\basicbody_bk.paa"};
 	};
@@ -3279,7 +3294,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Compact";
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\rucksack\assault\core\data\assaultpack_bk_01_co.paa"};
 		displayName = "GEAR BK CQB Kit Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 	};
@@ -3292,7 +3308,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo","camo1","camo2"};
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\rucksack\assault\core\data\assaultpack_bk_02_co.paa","\GEARS_CORE\rucksack\assault\core\data\assaultpack_bk_01_co.paa","\GEARS_CORE\rucksack\assault\core\data\assaultpack_bk_02_co.paa"};
 		displayName = "GEAR BK CQB Kit Rucksack 01B";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 	};
@@ -3305,7 +3322,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Tortila";
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\rucksack\carryall\CORE\data\carryall_bk_01_co.paa"};
 		displayName = "GEAR BK Infantry Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 	};
@@ -3317,7 +3335,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Fast";
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\rucksack\fast\core\data\FastPack_bk_01_co.paa"};
 		displayName = "GEAR BK F.A.S.T. Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 	};
@@ -3329,7 +3348,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Gorod";
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\rucksack\field\CORE\data\FieldPack_BK_01_co.paa"};
 		displayName = "GEAR BK Camping Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 	};
@@ -3341,7 +3361,8 @@ class CfgVehicles
 		model = "\A3\drones_f\Weapons_F_Gamma\Ammoboxes\bags\UAV_backpack_F";
 		displayName = "GEAR BK Full-Size Rucksack 01A";
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\rucksack\lrrp\CORE\data\largesize_BK_01_co.paa"};
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 	};
@@ -3353,7 +3374,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Small";
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\rucksack\Tactical\CORE\data\Tacticalpack_BK_01_co.paa"};
 		displayName = "GEAR BK Tactical Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 	};
@@ -3366,7 +3388,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\core\data\platecarrier_BK_01_co.paa"};
 		displayName = "GEAR BK Combat Belt 01A, BK";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 	};
@@ -3379,7 +3402,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\core\data\platecarrier_BK_02_co.paa"};
 		displayName = "GEAR BK Combat Belt 01A, CB";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 	};
@@ -3392,7 +3416,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\core\data\platecarrier_BK_03_co.paa"};
 		displayName = "GEAR BK Combat Belt 01A, OD";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 	};
@@ -3405,7 +3430,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\core\data\platecarrier_BK_04_co.paa"};
 		displayName = "GEAR BK Combat Belt 01A, SG";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 	};
@@ -3418,7 +3444,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\core\data\platecarrier_BK_05_co.paa"};
 		displayName = "GEAR BK Combat Belt 01A, TN";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 	};
@@ -3453,6 +3480,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3471,6 +3499,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3489,6 +3518,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3507,6 +3537,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3525,6 +3556,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3543,6 +3575,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3561,6 +3594,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3579,6 +3613,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3597,6 +3632,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3615,6 +3651,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3633,6 +3670,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3651,6 +3689,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3669,6 +3708,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3687,6 +3727,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3705,6 +3746,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3723,6 +3765,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3741,6 +3784,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3759,6 +3803,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3777,6 +3822,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3795,6 +3841,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3813,6 +3860,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3831,6 +3879,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3849,6 +3898,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3867,6 +3917,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3885,6 +3936,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3903,6 +3955,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3921,6 +3974,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3939,6 +3993,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3957,6 +4012,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3975,6 +4031,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Soldier_BK_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -3994,6 +4051,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4012,6 +4070,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4030,6 +4089,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4048,6 +4108,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4066,6 +4127,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4084,6 +4146,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4102,6 +4165,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4120,6 +4184,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4138,6 +4203,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4156,6 +4222,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4174,6 +4241,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4192,6 +4260,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4210,6 +4279,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4228,6 +4298,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4246,6 +4317,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4264,6 +4336,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4282,6 +4355,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4300,6 +4374,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4318,6 +4393,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4336,6 +4412,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4354,6 +4431,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4372,6 +4450,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4390,6 +4469,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4408,6 +4488,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4426,6 +4507,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4444,6 +4526,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4462,6 +4545,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4480,6 +4564,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4498,6 +4583,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4516,6 +4602,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Commando_BK_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4534,6 +4621,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4552,6 +4640,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4570,6 +4659,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4588,6 +4678,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4606,6 +4697,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4624,6 +4716,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4642,6 +4735,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4660,6 +4754,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4678,6 +4773,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4696,6 +4792,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4714,6 +4811,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4732,6 +4830,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4750,6 +4849,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4768,6 +4868,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4786,6 +4887,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4804,6 +4906,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4822,6 +4925,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4840,6 +4944,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4858,6 +4963,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4876,6 +4982,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4894,6 +5001,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4912,6 +5020,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4930,6 +5039,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4948,6 +5058,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4966,6 +5077,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Garrison_BK_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -4984,6 +5096,7 @@ class cfgWeapons
 			uniformClass = "gear_B_GhillieShirt_BK_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5002,6 +5115,7 @@ class cfgWeapons
 			uniformClass = "gear_B_GhillieShirt_BK_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5020,6 +5134,7 @@ class cfgWeapons
 			uniformClass = "gear_B_GhillieShirt_BK_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5038,6 +5153,7 @@ class cfgWeapons
 			uniformClass = "gear_B_GhillieShirt_BK_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5056,6 +5172,7 @@ class cfgWeapons
 			uniformClass = "gear_B_GhillieShirt_BK_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5074,6 +5191,7 @@ class cfgWeapons
 			uniformClass = "gear_B_GhillieShirt_BK_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5092,6 +5210,7 @@ class cfgWeapons
 			uniformClass = "gear_B_GhillieShirt_BK_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5110,6 +5229,7 @@ class cfgWeapons
 			uniformClass = "gear_B_GhillieShirt_BK_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5128,6 +5248,7 @@ class cfgWeapons
 			uniformClass = "gear_B_GhillieShirt_BK_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5146,6 +5267,7 @@ class cfgWeapons
 			uniformClass = "gear_B_GhillieShirt_BK_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5164,6 +5286,7 @@ class cfgWeapons
 			uniformClass = "gear_B_GhillieShirt_BK_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5182,6 +5305,7 @@ class cfgWeapons
 			uniformClass = "gear_B_GhillieShirt_BK_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5200,6 +5324,7 @@ class cfgWeapons
 			uniformClass = "gear_B_GhillieShirt_BK_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5218,6 +5343,7 @@ class cfgWeapons
 			uniformClass = "gear_B_GhillieShirt_BK_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5236,6 +5362,7 @@ class cfgWeapons
 			uniformClass = "gear_B_GhillieShirt_BK_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5255,6 +5382,7 @@ class cfgWeapons
 			uniformClass = "gear_B_ghilliemando_BK_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5273,6 +5401,7 @@ class cfgWeapons
 			uniformClass = "gear_B_ghilliemando_BK_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5291,6 +5420,7 @@ class cfgWeapons
 			uniformClass = "gear_B_ghilliemando_BK_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5309,6 +5439,7 @@ class cfgWeapons
 			uniformClass = "gear_B_ghilliemando_BK_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5327,6 +5458,7 @@ class cfgWeapons
 			uniformClass = "gear_B_ghilliemando_BK_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5345,6 +5477,7 @@ class cfgWeapons
 			uniformClass = "gear_B_ghilliemando_BK_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5363,6 +5496,7 @@ class cfgWeapons
 			uniformClass = "gear_B_ghilliemando_BK_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5381,6 +5515,7 @@ class cfgWeapons
 			uniformClass = "gear_B_ghilliemando_BK_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5399,6 +5534,7 @@ class cfgWeapons
 			uniformClass = "gear_B_ghilliemando_BK_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5417,6 +5553,7 @@ class cfgWeapons
 			uniformClass = "gear_B_ghilliemando_BK_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5435,6 +5572,7 @@ class cfgWeapons
 			uniformClass = "gear_B_ghilliemando_BK_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5453,6 +5591,7 @@ class cfgWeapons
 			uniformClass = "gear_B_ghilliemando_BK_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5471,6 +5610,7 @@ class cfgWeapons
 			uniformClass = "gear_B_ghilliemando_BK_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5489,6 +5629,7 @@ class cfgWeapons
 			uniformClass = "gear_B_ghilliemando_BK_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5507,6 +5648,7 @@ class cfgWeapons
 			uniformClass = "gear_B_ghilliemando_BK_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5526,6 +5668,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeGhillie_BK_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5544,6 +5687,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeGhillie_BK_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5562,6 +5706,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeGhillie_BK_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5580,6 +5725,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeGhillie_BK_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5598,6 +5744,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeGhillie_BK_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5616,6 +5763,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeGhillie_BK_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5634,6 +5782,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeGhillie_BK_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5652,6 +5801,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeGhillie_BK_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5670,6 +5820,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeGhillie_BK_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5688,6 +5839,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeGhillie_BK_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5706,6 +5858,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeGhillie_BK_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5724,6 +5877,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeGhillie_BK_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5742,6 +5896,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeGhillie_BK_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5760,6 +5915,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeGhillie_BK_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5778,6 +5934,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeGhillie_BK_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5797,6 +5954,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5815,6 +5973,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5833,6 +5992,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5851,6 +6011,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5869,6 +6030,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5887,6 +6049,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5905,6 +6068,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5923,6 +6087,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5941,6 +6106,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5959,6 +6125,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5977,6 +6144,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -5995,6 +6163,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6013,6 +6182,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6031,6 +6201,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6049,6 +6220,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6067,6 +6239,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6085,6 +6258,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6103,6 +6277,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6121,6 +6296,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6139,6 +6315,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6157,6 +6334,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6175,6 +6353,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6193,6 +6372,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6211,6 +6391,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6229,6 +6410,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6247,6 +6429,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6265,6 +6448,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6283,6 +6467,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6301,6 +6486,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6319,6 +6505,7 @@ class cfgWeapons
 			uniformClass = "gear_B_Crye_BK_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6338,6 +6525,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeScuba_BK_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6356,6 +6544,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeScuba_BK_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6374,6 +6563,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeScuba_BK_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6392,6 +6582,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeScuba_BK_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6410,6 +6601,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeScuba_BK_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6428,6 +6620,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeScuba_BK_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6446,6 +6639,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeScuba_BK_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6464,6 +6658,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeScuba_BK_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6482,6 +6677,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeScuba_BK_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6500,6 +6696,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeScuba_BK_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6518,6 +6715,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeScuba_BK_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6536,6 +6734,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeScuba_BK_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6554,6 +6753,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeScuba_BK_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6572,6 +6772,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeScuba_BK_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6590,6 +6791,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeScuba_BK_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6609,6 +6811,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6626,6 +6829,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6643,6 +6847,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6660,6 +6865,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6677,6 +6883,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6694,6 +6901,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6711,6 +6919,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6728,6 +6937,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6745,6 +6955,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6762,6 +6973,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6779,6 +6991,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6796,6 +7009,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6813,6 +7027,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6830,6 +7045,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6847,6 +7063,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6864,6 +7081,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6881,6 +7099,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6898,6 +7117,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6915,6 +7135,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6932,6 +7153,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6949,6 +7171,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6966,6 +7189,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -6983,6 +7207,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7000,6 +7225,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7017,6 +7243,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7034,6 +7261,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7051,6 +7279,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7068,6 +7297,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7085,6 +7315,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7102,6 +7333,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7119,6 +7351,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_31";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7136,6 +7369,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_32";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7153,6 +7387,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_33";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7170,6 +7405,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_34";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7187,6 +7423,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_35";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7204,6 +7441,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_36";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7221,6 +7459,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_37";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7238,6 +7477,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_38";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7255,6 +7495,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_39";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7272,6 +7513,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_40";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7289,6 +7531,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_41";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7306,6 +7549,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_42";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7323,6 +7567,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_43";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7340,6 +7585,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_44";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7357,6 +7603,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_45";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7374,6 +7621,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_46";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7391,6 +7639,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_47";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7408,6 +7657,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_48";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7425,6 +7675,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_49";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7442,6 +7693,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_50";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7459,6 +7711,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_51";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7476,6 +7729,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_52";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7493,6 +7747,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_53";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7510,6 +7765,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_54";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7527,6 +7783,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_55";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7544,6 +7801,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7561,6 +7819,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_57";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7578,6 +7837,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_58";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7595,6 +7855,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_59";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7612,6 +7873,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_60";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7629,6 +7891,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_61";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7646,6 +7909,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_62";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7663,6 +7927,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_63";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7680,6 +7945,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_64";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7697,6 +7963,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_65";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7714,6 +7981,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_66";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7731,6 +7999,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_67";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7748,6 +8017,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_68";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7765,6 +8035,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_69";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7782,6 +8053,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_70";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7799,6 +8071,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_71";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7816,6 +8089,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_72";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7833,6 +8107,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_73";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7850,6 +8125,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_74";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7867,6 +8143,7 @@ class cfgWeapons
 			uniformClass = "gear_B_CryeS_BK_75";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		};
 	};
@@ -7886,6 +8163,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\Common\equip_rebreather";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			vestType = "Rebreather";
 			//hiddenUnderwaterSelections[] = {"hide"};
 			//shownUnderwaterSelections[] = {"unhide","unhide2"};
@@ -7911,6 +8189,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\Common\equip_rebreather";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			vestType = "Rebreather";
 			//hiddenUnderwaterSelections[] = {"hide"};
 			//shownUnderwaterSelections[] = {"unhide","unhide2"};
@@ -7931,9 +8210,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\infantry\CORE\data\infantry_bk_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F_Beta\INDEP\equip_ia_vest02";
 			hiddenSelections[] = {"camo"};
@@ -7950,9 +8230,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\infantry\CORE\data\infantry_bk_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F_Beta\INDEP\equip_ia_vest01";
 			hiddenSelections[] = {"camo"};
@@ -7969,9 +8250,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\CORE\data\platecarrier_BK_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -7987,9 +8269,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\CORE\data\platecarrier_BK_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -8005,9 +8288,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\CORE\data\platecarrier_BK_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -8024,9 +8308,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\CORE\data\platecarrier_BK_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -8042,9 +8327,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\CORE\data\platecarrier_BK_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -8060,9 +8346,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\CORE\data\platecarrier_BK_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -8079,9 +8366,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\CORE\data\platecarrier_BK_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -8097,9 +8385,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\CORE\data\platecarrier_BK_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -8115,9 +8404,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\CORE\data\platecarrier_BK_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -8134,9 +8424,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\CORE\data\platecarrier_BK_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -8152,9 +8443,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\CORE\data\platecarrier_BK_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -8171,9 +8463,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\CORE\data\platecarrier_BK_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -8190,9 +8483,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\CORE\data\platecarrier_BK_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -8208,9 +8502,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\CORE\data\platecarrier_BK_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -8226,9 +8521,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\platecarrier\CORE\data\platecarrier_BK_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -8247,6 +8543,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -8265,6 +8562,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -8283,6 +8581,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -8301,6 +8600,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -8319,6 +8619,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -8337,6 +8638,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -8355,6 +8657,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -8373,6 +8676,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -8391,6 +8695,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -8409,6 +8714,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -8425,9 +8731,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_CORE\armor\tacvest\CORE\data\tacvest_bk_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F\Common\equip_tacticalvest";
 			hiddenSelections[] = {"Camo"};
@@ -8812,48 +9119,130 @@ class cfgWeapons
 			hiddenSelections[] = {"camo"};
 	    };
     };
+		class gear_ach_CORE_00: H_HelmetB
+	{
+		scope = 2;
+		author = "KetsuCorp";
+		weaponPoolAvailable = 1;
+		displayName = "GEAR BK MICH 2000, 01A";
+		picture = "\GEARS_CORE\ui\BK_UI.paa";
+		model = "\GEARS_CORE\headwear\common\gear_ach_CORE_00";
+		hiddenSelections[] = {"Camo","Camo1"};
+		hiddenSelectionsTextures[] = {"\GEARS_CORE\helmets\ACH\core\data\ACH_BK_05_co.paa","\GEARS_CORE\helmets\ACH\core\data\ACH_BK_02_co.paa"};
+		hiddenSelectionsMaterials[] = {"\GEARS_CORE\headwear\ca\ach3.rvmat"};
+		class ItemInfo: HeadGearItem
+		{	
+			uniformClass = "gear_ach_CORE_00";		
+		    mass = 1;
+			uniformModel = "\GEARS_CORE\headwear\common\gear_ach_CORE_00";
+			armor = 5;
+			passthrough = 0.610;
+		    hiddenSelections[] = {"Camo","Camo1"};
+	    };
+   };
 	class gear_ach_CORE_01: H_HelmetB
 	{
 		scope = 2;
 		author = "KetsuCorp";
 		weaponPoolAvailable = 1;
-		displayName = "GEAR BK MICH 2000 / ACH, 01A";
-		picture = "\GEARS_CORE\ui\BK_ui.paa";
+		displayName = "GEAR BK MICH 2000, 01D";
+		picture = "\GEARS_CORE\ui\BK_UI.paa";
 		model = "\GEARS_CORE\headwear\common\gear_ach_CORE_01";
 		hiddenSelections[] = {"Camo","Camo1"};
-		hiddenSelectionsTextures[] = {"\GEARS_CORE\helmets\ACH\CORE\data\ACH_BK_01_co.paa","\GEARS_CORE\helmets\ACH\CORE\data\ACH_BK_02_co.paa"};
+		hiddenSelectionsTextures[] = {"\GEARS_CORE\helmets\ACH\core\data\ACH_BK_01_co.paa","\GEARS_CORE\helmets\ACH\core\data\ACH_BK_02_co.paa"};
 		class ItemInfo: HeadGearItem
 		{	
 			uniformClass = "gear_ach_CORE_01";		
 		    mass = 1;
 			uniformModel = "\GEARS_CORE\headwear\common\gear_ach_CORE_01";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 		    hiddenSelections[] = {"Camo","Camo1"};
 	    };
    };
-	class gear_ach_CORE_02: gear_ach_CORE_01
+   		class gear_ach_CORE_02: H_HelmetB
 	{
 		scope = 2;
 		author = "KetsuCorp";
 		weaponPoolAvailable = 1;
-		displayName = "GEAR BK MICH 2000 / ACH, 01B";
-		picture = "\GEARS_CORE\ui\BK_ui.paa";
-		model = "\GEARS_CORE\headwear\common\gear_ach_CORE_01";
+		displayName = "GEAR BK MICH 2000, 01C";
+		picture = "\GEARS_CORE\ui\BK_UI.paa";
+		model = "\GEARS_CORE\headwear\common\gear_ach_CORE_00";
 		hiddenSelections[] = {"Camo","Camo1"};
-		hiddenSelectionsTextures[] = {"\GEARS_CORE\helmets\ACH\CORE\data\ACH_BK_04_co.paa","\GEARS_CORE\helmets\ACH\CORE\data\ACH_BK_02_co.paa"};
-		hiddenSelectionsMaterials[] = {"\GEARS_CORE\headwear\ca\ach2.rvmat"};
+		hiddenSelectionsTextures[] = {"\GEARS_CORE\helmets\ACH\core\data\ACH_BK_01_co.paa","\GEARS_CORE\helmets\ACH\core\data\ACH_BK_02_co.paa"};
+		hiddenSelectionsMaterials[] = {"\GEARS_CORE\headwear\ca\ach1.rvmat"};
 		class ItemInfo: HeadGearItem
 		{	
 			uniformClass = "gear_ach_CORE_02";		
 		    mass = 1;
-			uniformModel = "\GEARS_CORE\headwear\common\gear_ach_CORE_01";
-			armor = 0.5;
+			uniformModel = "\GEARS_CORE\headwear\common\gear_ach_CORE_00";
+			armor = 5;
 			passthrough = 0.610;
 		    hiddenSelections[] = {"Camo","Camo1"};
 	    };
    };
- 
+	class gear_ach_CORE_03: H_HelmetB
+	{
+		scope = 2;
+		author = "KetsuCorp";
+		weaponPoolAvailable = 1;
+		displayName = "GEAR BK MICH 2000, 01B";
+		picture = "\GEARS_CORE\ui\BK_UI.paa";
+		model = "\GEARS_CORE\headwear\common\gear_ach_CORE_01";
+		hiddenSelections[] = {"Camo","Camo1"};
+		hiddenSelectionsTextures[] = {"\GEARS_CORE\helmets\ACH\core\data\ACH_BK_04_co.paa","\GEARS_CORE\helmets\ACH\core\data\ACH_BK_02_co.paa"};
+		hiddenSelectionsMaterials[] = {"\GEARS_CORE\headwear\ca\ach2.rvmat"};
+		class ItemInfo: HeadGearItem
+		{	
+			uniformClass = "gear_ach_CORE_03";		
+		    mass = 1;
+			uniformModel = "\GEARS_CORE\headwear\common\gear_ach_CORE_01";
+			armor = 5;
+			passthrough = 0.610;
+		    hiddenSelections[] = {"Camo","Camo1"};
+	    };
+   };
+	class gear_mich_CORE_00: H_HelmetB
+	{
+		scope = 2;
+		author = "KetsuCorp";
+		weaponPoolAvailable = 1;
+		displayName = "GEAR BK MICH 2001, 01A";
+		picture = "\GEARS_CORE\ui\BK_ui.paa";
+		model = "\GEARS_CORE\headwear\common\gear_mich_CORE_00";
+		hiddenSelections[] = {"Camo","Camo1"};
+		hiddenSelectionsTextures[] = {"\GEARS_CORE\helmets\MICH\CORE\data\MICH_BK_01_co.paa","\GEARS_CORE\helmets\ACH\CORE\data\ACH_BK_02_co.paa"};
+		class ItemInfo: HeadGearItem
+		{	
+			uniformClass = "gear_mich_CORE_00";		
+		    mass = 1;
+			uniformModel = "\GEARS_CORE\headwear\common\gear_mich_CORE_00";
+			armor = 5;
+			passthrough = 0.610;
+		    hiddenSelections[] = {"Camo","Camo1"};
+	    };
+   };
+   	class gear_mich_CORE_01: H_HelmetB
+	{
+		scope = 2;
+		author = "KetsuCorp";
+		weaponPoolAvailable = 1;
+		displayName = "GEAR BK MICH 2001, 01B";
+		picture = "\GEARS_CORE\ui\BK_ui.paa";
+		model = "\GEARS_CORE\headwear\common\gear_mich_CORE_01";
+		hiddenSelections[] = {"Camo","Camo1"};
+		hiddenSelectionsTextures[] = {"\GEARS_CORE\helmets\MICH\CORE\data\MICH_BK_03_co.paa","\GEARS_CORE\helmets\ACH\CORE\data\ACH_BK_02_co.paa"};
+		hiddenSelectionsMaterials[] = {"\GEARS_CORE\headwear\ca\mich3.rvmat"};
+		class ItemInfo: HeadGearItem
+		{	
+			uniformClass = "gear_mich_CORE_01";		
+		    mass = 1;
+			uniformModel = "\GEARS_CORE\headwear\common\gear_mich_CORE_01";
+			armor = 5;
+			passthrough = 0.610;
+		    hiddenSelections[] = {"Camo","Camo1"};
+	    };
+   };
 	class gear_ECH_BK_01: H_HelmetB_light
 	{
 		scope = 2;
@@ -8868,7 +9257,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_01";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_light";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 	    };
@@ -8887,7 +9276,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_02";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_light";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 	    };
@@ -8906,7 +9295,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_03";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_light";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 	    };
@@ -8925,7 +9314,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_04";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_light";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 	    };
@@ -8944,7 +9333,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_05";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_light";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 	    };
@@ -8964,7 +9353,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_21";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_light";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 			hiddenSelectionsMaterials[] = {"\GEARS_CORE\headwear\common\equipx1.rvmat"};
@@ -8985,7 +9374,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_22";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_light";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 			hiddenSelectionsMaterials[] = {"\GEARS_CORE\headwear\common\equipx1.rvmat"};
@@ -9006,7 +9395,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_23";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_light";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 			hiddenSelectionsMaterials[] = {"\GEARS_CORE\headwear\common\equipx1.rvmat"};	
@@ -9027,7 +9416,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_24";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_light";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 			hiddenSelectionsMaterials[] = {"\GEARS_CORE\headwear\common\equipx1.rvmat"};
@@ -9048,7 +9437,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_25";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_light";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 			hiddenSelectionsMaterials[] = {"\GEARS_CORE\headwear\common\equipx1.rvmat"};
@@ -9068,7 +9457,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_06";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F_EPA\BLUFOR\headgear_b_helmet_kerry";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 	    };
@@ -9087,7 +9476,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_07";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F_EPA\BLUFOR\headgear_b_helmet_kerry";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 	    };
@@ -9106,7 +9495,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_08";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F_EPA\BLUFOR\headgear_b_helmet_kerry";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 	    };
@@ -9125,7 +9514,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_09";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F_EPA\BLUFOR\headgear_b_helmet_kerry";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 	    };
@@ -9144,7 +9533,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_10";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F_EPA\BLUFOR\headgear_b_helmet_kerry";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 	   };
@@ -9163,7 +9552,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_11";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_plain";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 	    };
@@ -9182,7 +9571,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_12";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_plain";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 	    };
@@ -9201,7 +9590,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_13";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_plain";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 	    };
@@ -9220,7 +9609,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_14";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_plain";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 	    };
@@ -9239,7 +9628,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_15";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_plain";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
 	   };
@@ -9259,7 +9648,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_16";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_camo";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo1","camo2"};
 	    };
@@ -9279,7 +9668,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_17";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_camo";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo1","camo2"};
 	    };
@@ -9299,7 +9688,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_18";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_camo";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo1","camo2"};
 	    };
@@ -9319,7 +9708,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_19";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_camo";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo1","camo2"};
 	    };
@@ -9339,7 +9728,7 @@ class cfgWeapons
 			uniformClass = "gear_ech_BK_20";		
 		    mass = 1;
 			uniformModel = "\A3\Characters_F\BLUFOR\headgear_b_helmet_camo";
-			armor = 0.5;
+			armor = 5;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo1","camo2"};
 	   };
@@ -9360,7 +9749,28 @@ class cfgWeapons
 			uniformClass = "gear_pth_CORE_01";		
 		    mass = 1;
 			uniformModel = "\GEARS_CORE\headwear\common\gear_protec_CORE_01";
-			armor = 0.5;
+			armor = 5;
+			passthrough = 0.610;
+		    hiddenSelections[] = {"Camo"};
+	    };
+   };
+      	class gear_pth_CORE_06: H_HelmetB
+	{
+		scope = 2;
+		author = "KetsuCorp";
+		weaponPoolAvailable = 1;
+		displayName = "GEAR BK Pro-Tec Helmet, 01B";
+		picture = "\GEARS_CORE\ui\BK_ui.paa";
+		model = "\GEARS_CORE\headwear\common\gear_protec_CORE_06";
+		hiddenSelections[] = {"Camo"};
+		hiddenSelectionsTextures[] = {"\GEARS_CORE\helmets\PTH\CORE\data\PTH_bk_01_co.paa"};
+		hiddenSelectionsMaterials[] = {"\GEARS_CORE\headwear\ca\pp.rvmat"};
+		class ItemInfo: HeadGearItem
+		{	
+			uniformClass = "gear_pth_CORE_06";		
+		    mass = 1;
+			uniformModel = "\GEARS_CORE\headwear\common\gear_protec_CORE_06";
+			armor = 5;
 			passthrough = 0.610;
 		    hiddenSelections[] = {"Camo"};
 	    };

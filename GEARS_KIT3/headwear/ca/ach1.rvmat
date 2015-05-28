@@ -44,7 +44,7 @@ class Stage3
 };
 class Stage4
 {
-	texture="GEARS_KIT2\headwear\ca\ach01_as.paa";
+	texture="GEARS_KIT3\headwear\ca\ach01_as.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -56,7 +56,7 @@ class Stage4
 };
 class Stage5
 {
-	texture="GEARS_KIT2\headwear\ca\ach01_smdi.paa";
+	texture="GEARS_KIT3\headwear\ca\ach01_smdi.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -73,7 +73,7 @@ class Stage6
 };
 class Stage7
 {
-	texture="GEARS_KIT2\headwear\ca\env01.paa";
+	texture="GEARS_KIT3\headwear\ca\env01.paa";
 	uvSource="tex";
 	class uvTransform
 	{

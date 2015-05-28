@@ -7631,6 +7631,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. BK Crye Uniform 01A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7644,6 +7645,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. BK Crye Uniform 01B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7657,6 +7659,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. BK Crye Uniform 01C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7670,6 +7673,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. BK Crye Uniform 02A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7683,6 +7687,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. BK Crye Uniform 02B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7696,6 +7701,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. BK Crye Uniform 02C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7709,6 +7715,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. BK Crye Uniform 03A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7722,6 +7729,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. BK Crye Uniform 03B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7735,6 +7743,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. BK Crye Uniform 03C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7748,6 +7757,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. BK Crye Uniform 04A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7761,6 +7771,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. BK Crye Uniform 04B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7774,6 +7785,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. BK Crye Uniform 04C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7787,6 +7799,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. BK Crye Uniform 05A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7800,6 +7813,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. BK Crye Uniform 05B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7813,6 +7827,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. BK Crye Uniform 05C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7826,6 +7841,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. CB Crye Uniform 01A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7839,6 +7855,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. CB Crye Uniform 01B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7852,6 +7869,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. CB Crye Uniform 01C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7865,6 +7883,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. CB Crye Uniform 02A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7878,6 +7897,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. CB Crye Uniform 02B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7891,6 +7911,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. CB Crye Uniform 02C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7904,6 +7925,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. CB Crye Uniform 03A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7917,6 +7939,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. CB Crye Uniform 03B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7930,6 +7953,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. CB Crye Uniform 03C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7943,6 +7967,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. CB Crye Uniform 04A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7956,6 +7981,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. CB Crye Uniform 04B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7969,6 +7995,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. CB Crye Uniform 04C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7982,6 +8009,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. CB Crye Uniform 05A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -7995,6 +8023,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. CB Crye Uniform 05B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8008,6 +8037,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. CB Crye Uniform 05C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8021,6 +8051,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. SG Crye Uniform 01A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8034,6 +8065,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. SG Crye Uniform 01B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8047,6 +8079,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. SG Crye Uniform 01C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8060,6 +8093,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. SG Crye Uniform 02A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8073,6 +8107,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. SG Crye Uniform 02B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8086,6 +8121,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. SG Crye Uniform 02C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8099,6 +8135,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. SG Crye Uniform 03A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8112,6 +8149,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. SG Crye Uniform 03B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8125,6 +8163,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. SG Crye Uniform 03C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8138,6 +8177,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. SG Crye Uniform 04A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8151,6 +8191,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. SG Crye Uniform 04B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8164,6 +8205,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. SG Crye Uniform 04C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8177,6 +8219,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. SG Crye Uniform 05A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8190,6 +8233,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. SG Crye Uniform 05B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8203,6 +8247,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. SG Crye Uniform 05C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8216,6 +8261,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. TN Crye Uniform 01A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8229,6 +8275,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. TN Crye Uniform 01B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8242,6 +8289,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. TN Crye Uniform 01C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8255,6 +8303,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. TN Crye Uniform 02A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8268,6 +8317,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. TN Crye Uniform 02B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8281,6 +8331,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. TN Crye Uniform 02C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8294,6 +8345,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. TN Crye Uniform 03A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8307,6 +8359,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. TN Crye Uniform 03B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8320,6 +8373,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. TN Crye Uniform 03C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8333,6 +8387,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. TN Crye Uniform 04A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8346,6 +8401,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. TN Crye Uniform 04B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8359,6 +8415,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. TN Crye Uniform 04C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8372,6 +8429,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. TN Crye Uniform 05A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8385,6 +8443,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. TN Crye Uniform 05B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8398,6 +8457,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. TN Crye Uniform 05C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8411,6 +8471,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. OD Crye Uniform 01A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8424,6 +8485,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. OD Crye Uniform 01B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8437,6 +8499,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. OD Crye Uniform 01C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8450,6 +8513,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. OD Crye Uniform 02A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8463,6 +8527,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. OD Crye Uniform 02B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8476,6 +8541,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. OD Crye Uniform 02C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8489,6 +8555,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. OD Crye Uniform 03A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8502,6 +8569,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. OD Crye Uniform 03B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8515,6 +8583,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. OD Crye Uniform 03C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8528,6 +8597,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. OD Crye Uniform 04A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8541,6 +8611,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. OD Crye Uniform 04B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8554,6 +8625,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. OD Crye Uniform 04C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8567,6 +8639,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. OD Crye Uniform 05A, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8580,6 +8653,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. OD Crye Uniform 05B, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -8593,6 +8667,7 @@ class CfgVehicles
 		_generalMacro = "I_Soldier_F";
 		scope = 1;
 		displayName = "U.S. OD Crye Uniform 05C, Scuba Kit";
+		uniformType = "Neopren";
 		nakedUniform = "U_BasicBody";
 		model = "\A3\Characters_F_EPA\BLUFOR\b_soldier_survival_01.p3d";
 		vehicleClass = "GEARS_USA1_C";
@@ -13113,7 +13188,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Compact";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\assault\core\data\assaultpack_bk_01_co.paa"};
 		displayName = "U.S. BK CQB Kit Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13127,7 +13203,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo","camo1","camo2"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\assault\core\data\assaultpack_bk_02_co.paa","\GEARS_USA1\rucksack\assault\core\data\assaultpack_bk_01_co.paa","\GEARS_USA1\rucksack\assault\core\data\assaultpack_bk_02_co.paa"};
 		displayName = "U.S. BK CQB Kit Rucksack 01B";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13140,7 +13217,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Compact";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\assault\cb\data\assaultpack_CB_01_co.paa"};
 		displayName = "U.S. CB CQB Kit Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13154,7 +13232,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo","camo1","camo2"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\assault\cb\data\assaultpack_CB_02_co.paa","\GEARS_USA1\rucksack\assault\cb\data\assaultpack_CB_01_co.paa","\GEARS_USA1\rucksack\assault\cb\data\assaultpack_CB_02_co.paa"};
 		displayName = "U.S. CB CQB Kit Rucksack 01B";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13167,7 +13246,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Compact";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\assault\SG\data\assaultpack_SG_01_co.paa"};
 		displayName = "U.S. SG CQB Kit Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13181,7 +13261,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo","camo1","camo2"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\assault\sg\data\assaultpack_sg_02_co.paa","\GEARS_USA1\rucksack\assault\sg\data\assaultpack_sg_01_co.paa","\GEARS_USA1\rucksack\assault\sg\data\assaultpack_sg_02_co.paa"};
 		displayName = "U.S. SG CQB Kit Rucksack 01B";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13194,7 +13275,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Compact";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\assault\od\data\assaultpack_OD_01_co.paa"};
 		displayName = "U.S. OD CQB Kit Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13208,7 +13290,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo","camo1","camo2"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\assault\od\data\assaultpack_OD_02_co.paa","\GEARS_USA1\rucksack\assault\od\data\assaultpack_OD_01_co.paa","\GEARS_USA1\rucksack\assault\od\data\assaultpack_OD_02_co.paa"};
 		displayName = "U.S. OD CQB Kit Rucksack 01B";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13221,7 +13304,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Compact";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\assault\TN\data\assaultpack_TN_01_co.paa"};
 		displayName = "U.S. TN CQB Kit Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13235,7 +13319,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo","camo1","camo2"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\assault\TN\data\assaultpack_TN_02_co.paa","\GEARS_USA1\rucksack\assault\TN\data\assaultpack_TN_01_co.paa","\GEARS_USA1\rucksack\assault\TN\data\assaultpack_TN_02_co.paa"};
 		displayName = "U.S. TN CQB Kit Rucksack 01B";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13248,7 +13333,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Tortila";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\carryall\od\data\carryall_OD_01_co.paa"};
 		displayName = "U.S. OD Infantry Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13261,7 +13347,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Tortila";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\carryall\SG\data\carryall_SG_01_co.paa"};
 		displayName = "U.S. SG Infantry Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13274,7 +13361,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Tortila";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\carryall\CORE\data\carryall_bk_01_co.paa"};
 		displayName = "U.S. BK Infantry Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13287,7 +13375,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Tortila";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\carryall\CB\data\carryall_CB_01_co.paa"};
 		displayName = "U.S. CB Infantry Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13300,7 +13389,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Tortila";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\carryall\TN\data\carryall_TN_01_co.paa"};
 		displayName = "U.S. TN Infantry Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13313,7 +13403,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Fast";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\fast\sg\data\FastPack_SG_01_co.paa"};
 		displayName = "U.S. SG F.A.S.T. Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13326,7 +13417,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Fast";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\fast\TN\data\FastPack_TN_01_co.paa"};
 		displayName = "U.S. TN F.A.S.T. Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13339,7 +13431,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Fast";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\fast\core\data\FastPack_bk_01_co.paa"};
 		displayName = "U.S. BK F.A.S.T. Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13352,7 +13445,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Fast";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\fast\OD\data\FastPack_OD_01_co.paa"};
 		displayName = "U.S. OD F.A.S.T. Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13365,7 +13459,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Fast";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\fast\cb\data\FastPack_CB_01_co.paa"};
 		displayName = "U.S. CB F.A.S.T. Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13378,7 +13473,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Gorod";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\field\TN\data\FieldPack_TN_01_co.paa"};
 		displayName = "U.S. TN Camping Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13391,7 +13487,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Gorod";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\field\SG\data\FieldPack_SG_01_co.paa"};
 		displayName = "U.S. SG Camping Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13404,7 +13501,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Gorod";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\field\OD\data\FieldPack_OD_01_co.paa"};
 		displayName = "U.S. OD Camping Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13417,7 +13515,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Gorod";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\field\CORE\data\FieldPack_BK_01_co.paa"};
 		displayName = "U.S. BK Camping Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13430,7 +13529,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Gorod";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\field\CB\data\FieldPack_CB_01_co.paa"};
 		displayName = "U.S. CB Camping Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13443,7 +13543,8 @@ class CfgVehicles
 		model = "\A3\drones_f\Weapons_F_Gamma\Ammoboxes\bags\UAV_backpack_F";
 		displayName = "U.S. OD Full-Size Rucksack 01A";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\lrrp\OD\data\largesize_OD_01_co.paa"};
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13456,7 +13557,8 @@ class CfgVehicles
 		model = "\A3\drones_f\Weapons_F_Gamma\Ammoboxes\bags\UAV_backpack_F";
 		displayName = "U.S. SG Full-Size Rucksack 01A";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\lrrp\SG\data\largesize_SG_01_co.paa"};
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13469,7 +13571,8 @@ class CfgVehicles
 		model = "\A3\drones_f\Weapons_F_Gamma\Ammoboxes\bags\UAV_backpack_F";
 		displayName = "U.S. CB Full-Size Rucksack 01A";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\lrrp\CB\data\largesize_CB_01_co.paa"};
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13482,7 +13585,8 @@ class CfgVehicles
 		model = "\A3\drones_f\Weapons_F_Gamma\Ammoboxes\bags\UAV_backpack_F";
 		displayName = "U.S. BK Full-Size Rucksack 01A";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\lrrp\CORE\data\largesize_BK_01_co.paa"};
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13495,7 +13599,8 @@ class CfgVehicles
 		model = "\A3\drones_f\Weapons_F_Gamma\Ammoboxes\bags\UAV_backpack_F";
 		displayName = "U.S. TN Full-Size Rucksack 01A";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\lrrp\TN\data\largesize_TN_01_co.paa"};
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13508,7 +13613,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Small";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\Tactical\OD\data\Tacticalpack_OD_01_co.paa"};
 		displayName = "U.S. OD Tactical Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13521,7 +13627,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Small";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\Tactical\CORE\data\Tacticalpack_BK_01_co.paa"};
 		displayName = "U.S. BK Tactical Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13534,7 +13641,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Small";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\Tactical\CB\data\Tacticalpack_CB_01_co.paa"};
 		displayName = "U.S. CB Tactical Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13547,7 +13655,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Small";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\Tactical\SG\data\Tacticalpack_SG_01_co.paa"};
 		displayName = "U.S. SG Tactical Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13560,7 +13669,8 @@ class CfgVehicles
 		model = "\A3\weapons_f\Ammoboxes\bags\Backpack_Small";
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\rucksack\Tactical\TN\data\Tacticalpack_TN_01_co.paa"};
 		displayName = "U.S. TN Tactical Rucksack 01A";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13574,7 +13684,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\core\data\platecarrier_BK_01_co.paa"};
 		displayName = "U.S. BK Combat Belt 01A, BK";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13588,7 +13699,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\core\data\platecarrier_BK_02_co.paa"};
 		displayName = "U.S. BK Combat Belt 01A, CB";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13602,7 +13714,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\core\data\platecarrier_BK_03_co.paa"};
 		displayName = "U.S. BK Combat Belt 01A, OD";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13616,7 +13729,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\core\data\platecarrier_BK_04_co.paa"};
 		displayName = "U.S. BK Combat Belt 01A, SG";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13630,7 +13744,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\core\data\platecarrier_BK_05_co.paa"};
 		displayName = "U.S. BK Combat Belt 01A, TN";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13644,7 +13759,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\cb\data\platecarrier_cb_01_co.paa"};
 		displayName = "U.S. CB Combat Belt 01A, BK";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13658,7 +13774,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\cb\data\platecarrier_cb_02_co.paa"};
 		displayName = "U.S. CB Combat Belt 01A, CB";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13672,7 +13789,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\cb\data\platecarrier_cb_03_co.paa"};
 		displayName = "U.S. CB Combat Belt 01A, OD";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13686,7 +13804,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\cb\data\platecarrier_cb_04_co.paa"};
 		displayName = "U.S. CB Combat Belt 01A, SG";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13700,7 +13819,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\cb\data\platecarrier_cb_05_co.paa"};
 		displayName = "U.S. CB Combat Belt 01A, TN";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13714,7 +13834,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\sg\data\platecarrier_sg_01_co.paa"};
 		displayName = "U.S. SG Combat Belt 01A, BK";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13728,7 +13849,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\sg\data\platecarrier_sg_02_co.paa"};
 		displayName = "U.S. SG Combat Belt 01A, CB";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13742,7 +13864,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\sg\data\platecarrier_sg_03_co.paa"};
 		displayName = "U.S. SG Combat Belt 01A, OD";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13756,7 +13879,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\sg\data\platecarrier_sg_04_co.paa"};
 		displayName = "U.S. SG Combat Belt 01A, SG";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13770,7 +13894,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\sg\data\platecarrier_sg_05_co.paa"};
 		displayName = "U.S. SG Combat Belt 01A, TN";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13784,7 +13909,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_01_co.paa"};
 		displayName = "U.S. OD Combat Belt 01A, BK";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13798,7 +13924,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_02_co.paa"};
 		displayName = "U.S. OD Combat Belt 01A, CB";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13812,7 +13939,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_03_co.paa"};
 		displayName = "U.S. OD Combat Belt 01A, OD";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13826,7 +13954,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_04_co.paa"};
 		displayName = "U.S. OD Combat Belt 01A, SG";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13840,7 +13969,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_05_co.paa"};
 		displayName = "U.S. OD Combat Belt 01A, TN";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13854,7 +13984,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\TN\data\platecarrier_TN_01_co.paa"};
 		displayName = "U.S. TN Combat Belt 01A, BK";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13868,7 +13999,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\TN\data\platecarrier_TN_02_co.paa"};
 		displayName = "U.S. TN Combat Belt 01A, CB";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13882,7 +14014,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\TN\data\platecarrier_TN_03_co.paa"};
 		displayName = "U.S. TN Combat Belt 01A, OD";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13896,7 +14029,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\TN\data\platecarrier_TN_04_co.paa"};
 		displayName = "U.S. TN Combat Belt 01A, SG";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13910,7 +14044,8 @@ class CfgVehicles
 		hiddenSelections[] = {"camo"};
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\TN\data\platecarrier_TN_05_co.paa"};
 		displayName = "U.S. TN Combat Belt 01A, TN";
-	    containerClass = "Supply500";
+		maximumLoad = 9999999;
+		allowedSlots[] = {"701", "801", "901"};
 		mass = 1;
 		armor = 0;
 		passthrough = 0.610;
@@ -13939,13 +14074,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -13958,13 +14094,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -13977,13 +14114,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -13996,13 +14134,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14015,13 +14154,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14034,13 +14174,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14053,13 +14194,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14072,13 +14214,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14091,13 +14234,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14110,13 +14254,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14129,13 +14274,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14148,13 +14294,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14167,13 +14314,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14186,13 +14334,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14205,13 +14354,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14224,13 +14374,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14243,13 +14394,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14262,13 +14414,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14281,13 +14434,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14300,13 +14454,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14319,13 +14474,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14338,13 +14494,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14357,13 +14514,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14376,13 +14534,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14395,13 +14554,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14414,13 +14574,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14433,13 +14594,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14452,13 +14614,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14471,13 +14634,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14490,13 +14654,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_BK_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14509,13 +14674,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14528,13 +14694,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14547,13 +14714,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14566,13 +14734,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14585,13 +14754,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14604,13 +14774,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14623,13 +14794,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14642,13 +14814,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14661,13 +14834,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14680,13 +14854,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14699,13 +14874,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14718,13 +14894,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14737,13 +14914,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14756,13 +14934,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14775,13 +14954,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14794,13 +14974,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14813,13 +14994,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14832,13 +15014,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14851,13 +15034,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14870,13 +15054,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14889,13 +15074,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14908,13 +15094,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14927,13 +15114,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14946,13 +15134,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14965,13 +15154,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -14984,13 +15174,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15003,13 +15194,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15022,13 +15214,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15041,13 +15234,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15060,13 +15254,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_CB_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15079,13 +15274,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15098,13 +15294,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15117,13 +15314,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15136,13 +15334,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15155,13 +15354,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15174,13 +15374,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15193,13 +15394,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15212,13 +15414,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15231,13 +15434,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15250,13 +15454,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15269,13 +15474,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15288,13 +15494,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15307,13 +15514,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15326,13 +15534,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15345,13 +15554,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15364,13 +15574,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15383,13 +15594,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15402,13 +15614,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15421,13 +15634,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15440,13 +15654,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15459,13 +15674,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15478,13 +15694,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15497,13 +15714,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15516,13 +15734,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15535,13 +15754,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15554,13 +15774,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15573,13 +15794,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15592,13 +15814,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15611,13 +15834,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15630,13 +15854,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_SG_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15649,13 +15874,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15668,13 +15894,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15687,13 +15914,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15706,13 +15934,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15725,13 +15954,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15744,13 +15974,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15763,13 +15994,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15782,13 +16014,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15801,13 +16034,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15820,13 +16054,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15839,13 +16074,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15858,13 +16094,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15877,13 +16114,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15896,13 +16134,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15915,13 +16154,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15934,13 +16174,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15953,13 +16194,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15972,13 +16214,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -15991,13 +16234,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16010,13 +16254,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16029,13 +16274,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16048,13 +16294,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16067,13 +16314,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16086,13 +16334,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16105,13 +16354,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16124,13 +16374,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16143,13 +16394,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16162,13 +16414,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16181,13 +16434,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16200,13 +16454,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_TN_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16219,13 +16474,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16238,13 +16494,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16257,13 +16514,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16276,13 +16534,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16295,13 +16554,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16314,13 +16574,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16333,13 +16594,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16352,13 +16614,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16371,13 +16634,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16390,13 +16654,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16409,13 +16674,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16428,13 +16694,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16447,13 +16714,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16466,13 +16734,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16485,13 +16754,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16504,13 +16774,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16523,13 +16794,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16542,13 +16814,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16561,13 +16834,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16580,13 +16854,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16599,13 +16874,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16618,13 +16894,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16637,13 +16914,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16656,13 +16934,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16675,13 +16954,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16694,13 +16974,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16713,13 +16994,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16732,13 +17014,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16751,13 +17034,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16770,13 +17054,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Soldier_OD_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16789,13 +17074,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16808,13 +17094,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16827,13 +17114,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16846,13 +17134,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16865,13 +17154,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16884,13 +17174,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16903,13 +17194,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16922,13 +17214,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16941,13 +17234,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16960,13 +17254,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16979,13 +17274,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -16998,13 +17294,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17017,13 +17314,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17036,13 +17334,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17055,13 +17354,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17074,13 +17374,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17093,13 +17394,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17112,13 +17414,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17131,13 +17434,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17150,13 +17454,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17169,13 +17474,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17188,13 +17494,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17207,13 +17514,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17226,13 +17534,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17245,13 +17554,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17264,13 +17574,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17283,13 +17594,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17302,13 +17614,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17321,13 +17634,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17340,13 +17654,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_BK_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17359,13 +17674,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17378,13 +17694,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17397,13 +17714,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17416,13 +17734,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17435,13 +17754,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17454,13 +17774,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17473,13 +17794,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17492,13 +17814,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17511,13 +17834,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17530,13 +17854,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17549,13 +17874,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17568,13 +17894,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17587,13 +17914,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17606,13 +17934,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17625,13 +17954,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17644,13 +17974,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17663,13 +17994,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17682,13 +18014,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17701,13 +18034,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17720,13 +18054,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17739,13 +18074,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17758,13 +18094,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17777,13 +18114,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17796,13 +18134,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17815,13 +18154,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17834,13 +18174,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17853,13 +18194,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17872,13 +18214,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17891,13 +18234,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17910,13 +18254,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_CB_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17929,13 +18274,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17948,13 +18294,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17967,13 +18314,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -17986,13 +18334,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18005,13 +18354,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18024,13 +18374,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18043,13 +18394,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18062,13 +18414,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18081,13 +18434,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18100,13 +18454,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18119,13 +18474,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18138,13 +18494,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18157,13 +18514,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18176,13 +18534,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18195,13 +18554,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18214,13 +18574,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18233,13 +18594,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18252,13 +18614,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18271,13 +18634,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18290,13 +18654,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18309,13 +18674,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18328,13 +18694,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18347,13 +18714,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18366,13 +18734,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18385,13 +18754,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18404,13 +18774,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18423,13 +18794,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18442,13 +18814,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18461,13 +18834,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18480,13 +18854,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_SG_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18499,13 +18874,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18518,13 +18894,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18537,13 +18914,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18556,13 +18934,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18575,13 +18954,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18594,13 +18974,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18613,13 +18994,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18632,13 +19014,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18651,13 +19034,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18670,13 +19054,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18689,13 +19074,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18708,13 +19094,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18727,13 +19114,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18746,13 +19134,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18765,13 +19154,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18784,13 +19174,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18803,13 +19194,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18822,13 +19214,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18841,13 +19234,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18860,13 +19254,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18879,13 +19274,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18898,13 +19294,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18917,13 +19314,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18936,13 +19334,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18955,13 +19354,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18974,13 +19374,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -18993,13 +19394,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19012,13 +19414,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19031,13 +19434,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19050,13 +19454,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_OD_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19069,13 +19474,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19088,13 +19494,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19107,13 +19514,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19126,13 +19534,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19145,13 +19554,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19164,13 +19574,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19183,13 +19594,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19202,13 +19614,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19221,13 +19634,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19240,13 +19654,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19259,13 +19674,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19278,13 +19694,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19297,13 +19714,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19316,13 +19734,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19335,13 +19754,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19354,13 +19774,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19373,13 +19794,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19392,13 +19814,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19411,13 +19834,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19430,13 +19854,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19449,13 +19874,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19468,13 +19894,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19487,13 +19914,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19506,13 +19934,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19525,13 +19954,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19544,13 +19974,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19563,13 +19994,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19582,13 +20014,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19601,13 +20034,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19620,13 +20054,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Commando_TN_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19639,13 +20074,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19658,13 +20094,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19677,13 +20114,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19696,13 +20134,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19715,13 +20154,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19734,13 +20174,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19753,13 +20194,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19772,13 +20214,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19791,13 +20234,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19810,13 +20254,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19829,13 +20274,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19848,13 +20294,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19867,13 +20314,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19886,13 +20334,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19905,13 +20354,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19924,13 +20374,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19943,13 +20394,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19962,13 +20414,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -19981,13 +20434,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20000,13 +20454,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20019,13 +20474,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20038,13 +20494,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20057,13 +20514,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20076,13 +20534,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20095,13 +20554,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_Garrison_BK_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20114,13 +20574,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20133,13 +20594,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20152,13 +20614,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20171,13 +20634,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20190,13 +20654,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20209,13 +20674,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20228,13 +20694,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20247,13 +20714,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20266,13 +20734,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20285,13 +20754,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20304,13 +20774,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20323,13 +20794,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20342,13 +20814,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20361,13 +20834,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20380,13 +20854,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20399,13 +20874,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20418,13 +20894,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20437,13 +20914,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20456,13 +20934,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20475,13 +20954,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20494,13 +20974,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20513,13 +20994,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20532,13 +21014,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20551,13 +21034,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20570,13 +21054,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_CB_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20589,13 +21074,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20608,13 +21094,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20627,13 +21114,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20646,13 +21134,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20665,13 +21154,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20684,13 +21174,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20703,13 +21194,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20722,13 +21214,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20741,13 +21234,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20760,13 +21254,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20779,13 +21274,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20798,13 +21294,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20817,13 +21314,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20836,13 +21334,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20855,13 +21354,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20874,13 +21374,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20893,13 +21394,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20912,13 +21414,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20931,13 +21434,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20950,13 +21454,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20969,13 +21474,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -20988,13 +21494,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21007,13 +21514,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21026,13 +21534,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21045,13 +21554,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_SG_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21064,13 +21574,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21083,13 +21594,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21102,13 +21614,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21121,13 +21634,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21140,13 +21654,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21159,13 +21674,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21178,13 +21694,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21197,13 +21714,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21216,13 +21734,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21235,13 +21754,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21254,13 +21774,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21273,13 +21794,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21292,13 +21814,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21311,13 +21834,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21330,13 +21854,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21349,13 +21874,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21368,13 +21894,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21387,13 +21914,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21406,13 +21934,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21425,13 +21954,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21444,13 +21974,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21463,13 +21994,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21482,13 +22014,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21501,13 +22034,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21520,13 +22054,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_OD_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21539,13 +22074,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21558,13 +22094,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21577,13 +22114,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21596,13 +22134,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21615,13 +22154,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21634,13 +22174,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21653,13 +22194,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21672,13 +22214,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21691,13 +22234,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21710,13 +22254,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21729,13 +22274,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21748,13 +22294,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21767,13 +22314,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21786,13 +22334,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21805,13 +22354,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21824,13 +22374,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21843,13 +22394,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21862,13 +22414,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21881,13 +22434,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21900,13 +22454,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21919,13 +22474,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21938,13 +22494,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21957,13 +22514,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21976,13 +22534,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -21995,13 +22554,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformmodel = "-";
 			uniformClass = "gear_usa_B_garrison_TN_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22014,13 +22574,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22033,13 +22594,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22052,13 +22614,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22071,13 +22634,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22090,13 +22654,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22109,13 +22674,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22128,13 +22694,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22147,13 +22714,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22166,13 +22734,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22185,13 +22754,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22204,13 +22774,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22223,13 +22794,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22242,13 +22814,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22261,13 +22834,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22280,13 +22854,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22299,13 +22874,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22318,13 +22894,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22337,13 +22914,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22356,13 +22934,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22375,13 +22954,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22394,13 +22974,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22413,13 +22994,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22432,13 +23014,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22451,13 +23034,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22470,13 +23054,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22489,13 +23074,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22508,13 +23094,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22527,13 +23114,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22546,13 +23134,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22565,13 +23154,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_BK_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22584,13 +23174,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22603,13 +23194,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22622,13 +23214,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22641,13 +23234,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22660,13 +23254,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22679,13 +23274,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22698,13 +23294,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22717,13 +23314,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22736,13 +23334,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22755,13 +23354,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22774,13 +23374,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22793,13 +23394,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22812,13 +23414,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22831,13 +23434,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22850,13 +23454,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22869,13 +23474,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22888,13 +23494,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22907,13 +23514,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22926,13 +23534,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22945,13 +23554,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22964,13 +23574,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -22983,13 +23594,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23002,13 +23614,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23021,13 +23634,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23040,13 +23654,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23059,13 +23674,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23078,13 +23694,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23097,13 +23714,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23116,13 +23734,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23135,13 +23754,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_CB_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23154,13 +23774,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23173,13 +23794,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23192,13 +23814,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23211,13 +23834,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23230,13 +23854,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23249,13 +23874,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23268,13 +23894,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23287,13 +23914,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23306,13 +23934,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23325,13 +23954,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23344,13 +23974,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23363,13 +23994,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23382,13 +24014,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23401,13 +24034,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23420,13 +24054,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23439,13 +24074,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23458,13 +24094,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23477,13 +24114,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23496,13 +24134,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23515,13 +24154,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23534,13 +24174,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23553,13 +24194,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23572,13 +24214,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23591,13 +24234,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23610,13 +24254,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23629,13 +24274,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23648,13 +24294,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23667,13 +24314,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23686,13 +24334,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23705,13 +24354,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_SG_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23724,13 +24374,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23743,13 +24394,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23762,13 +24414,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23781,13 +24434,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23800,13 +24454,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23819,13 +24474,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23838,13 +24494,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23857,13 +24514,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23876,13 +24534,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23895,13 +24554,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23914,13 +24574,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23933,13 +24594,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23952,13 +24614,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23971,13 +24634,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -23990,13 +24654,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24009,13 +24674,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24028,13 +24694,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24047,13 +24714,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24066,13 +24734,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24085,13 +24754,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24104,13 +24774,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24123,13 +24794,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24142,13 +24814,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24161,13 +24834,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24180,13 +24854,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24199,13 +24874,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24218,13 +24894,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24237,13 +24914,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24256,13 +24934,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24275,13 +24954,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_TN_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24294,13 +24974,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24313,13 +24994,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24332,13 +25014,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24351,13 +25034,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24370,13 +25054,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24389,13 +25074,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24408,13 +25094,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24427,13 +25114,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24446,13 +25134,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24465,13 +25154,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24484,13 +25174,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24503,13 +25194,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24522,13 +25214,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24541,13 +25234,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24560,13 +25254,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24579,13 +25274,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24598,13 +25294,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24617,13 +25314,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24636,13 +25334,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24655,13 +25354,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24674,13 +25374,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24693,13 +25394,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24712,13 +25414,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24731,13 +25434,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24750,13 +25454,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24769,13 +25474,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24788,13 +25494,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24807,13 +25514,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24826,13 +25534,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24845,13 +25554,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_Crye_OD_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24864,13 +25574,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_BK_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24883,13 +25594,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_BK_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24902,13 +25614,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_BK_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24921,13 +25634,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_BK_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24940,13 +25654,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_BK_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24959,13 +25674,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_BK_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24978,13 +25694,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_BK_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -24997,13 +25714,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_BK_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25016,13 +25734,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_BK_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25035,13 +25754,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_BK_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25054,13 +25774,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_BK_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25073,13 +25794,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_BK_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25092,13 +25814,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_BK_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25111,13 +25834,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_BK_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25130,13 +25854,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_BK.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_BK.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_BK_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25149,13 +25874,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_CB_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25168,13 +25894,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_CB_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25187,13 +25914,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_CB_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25206,13 +25934,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_CB_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25225,13 +25954,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_CB_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25244,13 +25974,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_CB_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25263,13 +25994,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_CB_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25282,13 +26014,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_CB_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25301,13 +26034,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_CB_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25320,13 +26054,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_CB_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25339,13 +26074,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_CB_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25358,13 +26094,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_CB_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25377,13 +26114,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_CB_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25396,13 +26134,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_CB_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25415,13 +26154,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_CB.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_CB.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_CB_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25434,13 +26174,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_SG_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25453,13 +26194,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_SG_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25472,13 +26214,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_SG_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25491,13 +26234,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_SG_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25510,13 +26254,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_SG_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25529,13 +26274,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_SG_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25548,13 +26294,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_SG_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25567,13 +26314,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_SG_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25586,13 +26334,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_SG_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25605,13 +26354,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_SG_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25624,13 +26374,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_SG_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25643,13 +26394,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_SG_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25662,13 +26414,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_SG_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25681,13 +26434,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_SG_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25700,13 +26454,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_SG.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_SG.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_SG_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25719,13 +26474,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_TN_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25738,13 +26494,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_TN_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25757,13 +26514,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_TN_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25776,13 +26534,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_TN_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25795,13 +26554,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_TN_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25814,13 +26574,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_TN_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25833,13 +26594,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_TN_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25852,13 +26614,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_TN_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25871,13 +26634,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_TN_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25890,13 +26654,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_TN_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25909,13 +26674,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_TN_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25928,13 +26694,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_TN_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25947,13 +26714,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_TN_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25966,13 +26734,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_TN_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -25985,13 +26754,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_TN.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_TN.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_TN_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26004,13 +26774,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_OD_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26023,13 +26794,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_OD_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26042,13 +26814,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_OD_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26061,13 +26834,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_OD_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26080,13 +26854,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_OD_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26099,13 +26874,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_OD_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26118,13 +26894,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_OD_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26137,13 +26914,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_OD_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26156,13 +26934,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_OD_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26175,13 +26954,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_OD_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26194,13 +26974,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_OD_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26213,13 +26994,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_OD_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26232,13 +27014,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_OD_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26251,13 +27034,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_OD_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26270,13 +27054,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_OD.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_OD.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeScuba_OD_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26289,13 +27074,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26307,13 +27093,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26325,13 +27112,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26343,13 +27131,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26361,13 +27150,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26379,13 +27169,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26397,13 +27188,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26415,13 +27207,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26433,13 +27226,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26451,13 +27245,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26469,13 +27264,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26487,13 +27283,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26505,13 +27302,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26523,13 +27321,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26541,13 +27340,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26559,13 +27359,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26577,13 +27378,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26595,13 +27397,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26613,13 +27416,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26631,13 +27435,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26649,13 +27454,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26667,13 +27473,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26685,13 +27492,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26703,13 +27511,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26721,13 +27530,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26739,13 +27549,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26757,13 +27568,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26775,13 +27587,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26793,13 +27606,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26811,13 +27625,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26829,13 +27644,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_31";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26847,13 +27663,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_32";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26865,13 +27682,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_33";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26883,13 +27701,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_34";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26901,13 +27720,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_35";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26919,13 +27739,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_36";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26937,13 +27758,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_37";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26955,13 +27777,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_38";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26973,13 +27796,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_39";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -26991,13 +27815,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_40";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27009,13 +27834,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_41";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27027,13 +27853,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_42";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27045,13 +27872,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_43";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27063,13 +27891,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_44";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27081,13 +27910,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_45";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27099,13 +27929,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_46";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27117,13 +27948,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_47";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27135,13 +27967,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_48";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27153,13 +27986,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_49";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27171,13 +28005,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_50";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27189,13 +28024,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_51";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27207,13 +28043,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_52";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27225,13 +28062,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_53";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27243,13 +28081,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_54";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27261,13 +28100,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_55";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27279,13 +28119,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27297,13 +28138,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_57";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27315,13 +28157,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_58";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27333,13 +28176,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_59";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27351,13 +28195,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_60";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27369,13 +28214,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_61";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27387,13 +28233,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_62";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27405,13 +28252,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_63";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27423,13 +28271,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_64";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27441,13 +28290,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_65";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27459,13 +28309,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_66";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27477,13 +28328,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_67";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27495,13 +28347,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_68";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27513,13 +28366,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_69";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27531,13 +28385,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_70";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27549,13 +28404,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_71";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27567,13 +28423,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_72";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27585,13 +28442,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_73";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27603,13 +28461,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_74";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27621,13 +28480,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\BK_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_bk.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_bk.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_BK_75";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27640,13 +28500,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27658,13 +28519,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27676,13 +28538,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27694,13 +28557,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27712,13 +28576,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27730,13 +28595,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27748,13 +28614,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27766,13 +28633,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27784,13 +28652,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27802,13 +28671,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27820,13 +28690,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27838,13 +28709,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27856,13 +28728,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27874,13 +28747,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27892,13 +28766,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27910,13 +28785,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27928,13 +28804,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27946,13 +28823,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27964,13 +28842,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -27982,13 +28861,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28000,13 +28880,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28018,13 +28899,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28036,13 +28918,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28054,13 +28937,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28072,13 +28956,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28090,13 +28975,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28108,13 +28994,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28126,13 +29013,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28144,13 +29032,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28162,13 +29051,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28180,13 +29070,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_31";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28198,13 +29089,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_32";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28216,13 +29108,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_33";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28234,13 +29127,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_34";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28252,13 +29146,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_35";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28270,13 +29165,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_36";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28288,13 +29184,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_37";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28306,13 +29203,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_38";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28324,13 +29222,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_39";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28342,13 +29241,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_40";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28360,13 +29260,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_41";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28378,13 +29279,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_42";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28396,13 +29298,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_43";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28414,13 +29317,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_44";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28432,13 +29336,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_45";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28450,13 +29355,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_46";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28468,13 +29374,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_47";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28486,13 +29393,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_48";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28504,13 +29412,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_49";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28522,13 +29431,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_50";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28540,13 +29450,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_51";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28558,13 +29469,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_52";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28576,13 +29488,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_53";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28594,13 +29507,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_54";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28612,13 +29526,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_55";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28630,13 +29545,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28648,13 +29564,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_57";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28666,13 +29583,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_58";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28684,13 +29602,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_59";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28702,13 +29621,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_60";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28720,13 +29640,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_61";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28738,13 +29659,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_62";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28756,13 +29678,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_63";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28774,13 +29697,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_64";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28792,13 +29716,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_65";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28810,13 +29735,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_66";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28828,13 +29754,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_67";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28846,13 +29773,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_68";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28864,13 +29792,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_69";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28882,13 +29811,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_70";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28900,13 +29830,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_71";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28918,13 +29849,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_72";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28936,13 +29868,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_73";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28954,13 +29887,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_74";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28972,13 +29906,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\CB_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_cb.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_cb.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_CB_75";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -28991,13 +29926,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29009,13 +29945,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29027,13 +29964,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29045,13 +29983,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29063,13 +30002,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29081,13 +30021,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29099,13 +30040,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29117,13 +30059,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29135,13 +30078,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29153,13 +30097,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29171,13 +30116,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29189,13 +30135,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29207,13 +30154,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29225,13 +30173,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29243,13 +30192,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29261,13 +30211,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29279,13 +30230,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29297,13 +30249,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29315,13 +30268,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29333,13 +30287,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29351,13 +30306,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29369,13 +30325,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29387,13 +30344,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29405,13 +30363,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29423,13 +30382,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29441,13 +30401,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29459,13 +30420,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29477,13 +30439,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29495,13 +30458,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29513,13 +30477,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29531,13 +30496,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_31";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29549,13 +30515,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_32";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29567,13 +30534,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_33";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29585,13 +30553,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_34";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29603,13 +30572,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_35";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29621,13 +30591,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_36";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29639,13 +30610,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_37";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29657,13 +30629,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_38";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29675,13 +30648,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_39";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29693,13 +30667,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_40";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29711,13 +30686,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_41";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29729,13 +30705,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_42";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29747,13 +30724,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_43";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29765,13 +30743,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_44";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29783,13 +30762,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_45";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29801,13 +30781,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_46";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29819,13 +30800,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_47";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29837,13 +30819,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_48";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29855,13 +30838,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_49";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29873,13 +30857,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_50";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29891,13 +30876,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_51";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29909,13 +30895,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_52";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29927,13 +30914,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_53";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29945,13 +30933,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_54";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29963,13 +30952,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_55";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29981,13 +30971,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -29999,13 +30990,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_57";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30017,13 +31009,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_58";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30035,13 +31028,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_59";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30053,13 +31047,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_60";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30071,13 +31066,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_61";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30089,13 +31085,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_62";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30107,13 +31104,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_63";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30125,13 +31123,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_64";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30143,13 +31142,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_65";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30161,13 +31161,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_66";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30179,13 +31180,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_67";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30197,13 +31199,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_68";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30215,13 +31218,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_69";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30233,13 +31237,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_70";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30251,13 +31256,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_71";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30269,13 +31275,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_72";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30287,13 +31294,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_73";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30305,13 +31313,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_74";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30323,13 +31332,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\SG_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_sg.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_sg.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_SG_75";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30342,13 +31352,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30360,13 +31371,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30378,13 +31390,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30396,13 +31409,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30414,13 +31428,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30432,13 +31447,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30450,13 +31466,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30468,13 +31485,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30486,13 +31504,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30504,13 +31523,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30522,13 +31542,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30540,13 +31561,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30558,13 +31580,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30576,13 +31599,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30594,13 +31618,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30612,13 +31637,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30630,13 +31656,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30648,13 +31675,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30666,13 +31694,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30684,13 +31713,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30702,13 +31732,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30720,13 +31751,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30738,13 +31770,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30756,13 +31789,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30774,13 +31808,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30792,13 +31827,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30810,13 +31846,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30828,13 +31865,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30846,13 +31884,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30864,13 +31903,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30882,13 +31922,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_31";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30900,13 +31941,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_32";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30918,13 +31960,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_33";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30936,13 +31979,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_34";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30954,13 +31998,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_35";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30972,13 +32017,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_36";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -30990,13 +32036,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_37";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31008,13 +32055,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_38";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31026,13 +32074,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_39";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31044,13 +32093,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_40";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31062,13 +32112,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_41";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31080,13 +32131,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_42";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31098,13 +32150,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_43";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31116,13 +32169,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_44";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31134,13 +32188,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_45";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31152,13 +32207,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_46";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31170,13 +32226,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_47";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31188,13 +32245,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_48";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31206,13 +32264,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_49";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31224,13 +32283,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_50";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31242,13 +32302,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_51";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31260,13 +32321,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_52";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31278,13 +32340,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_53";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31296,13 +32359,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_54";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31314,13 +32378,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_55";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31332,13 +32397,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31350,13 +32416,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_57";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31368,13 +32435,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_58";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31386,13 +32454,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_59";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31404,13 +32473,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_60";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31422,13 +32492,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_61";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31440,13 +32511,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_62";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31458,13 +32530,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_63";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31476,13 +32549,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_64";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31494,13 +32568,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_65";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31512,13 +32587,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_66";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31530,13 +32606,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_67";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31548,13 +32625,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_68";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31566,13 +32644,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_69";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31584,13 +32663,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_70";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31602,13 +32682,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_71";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31620,13 +32701,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_72";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31638,13 +32720,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_73";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31656,13 +32739,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_74";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31674,13 +32758,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\OD_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_od.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_od.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_OD_75";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31693,13 +32778,14 @@ class cfgWeapons
 		picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: UniformItem
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_01";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31711,13 +32797,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_02";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31729,13 +32816,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_03";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31747,13 +32835,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_04";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31765,13 +32854,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_05";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31783,13 +32873,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_06";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31801,13 +32892,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_07";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31819,13 +32911,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_08";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31837,13 +32930,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_09";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31855,13 +32949,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_10";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31873,13 +32968,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_11";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31891,13 +32987,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_12";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31909,13 +33006,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_13";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31927,13 +33025,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_14";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31945,13 +33044,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_15";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31963,13 +33063,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_16";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31981,13 +33082,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_17";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -31999,13 +33101,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_18";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32017,13 +33120,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_19";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32035,13 +33139,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_20";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32053,13 +33158,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_21";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32071,13 +33177,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_22";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32089,13 +33196,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_23";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32107,13 +33215,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_24";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32125,13 +33234,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_25";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32143,13 +33253,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32161,13 +33272,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_27";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32179,13 +33291,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_28";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32197,13 +33310,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_29";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32215,13 +33329,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_30";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32233,13 +33348,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_31";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32251,13 +33367,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_32";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32269,13 +33386,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_33";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32287,13 +33405,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_34";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32305,13 +33424,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_35";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32323,13 +33443,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_36";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32341,13 +33462,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_37";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32359,13 +33481,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_38";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32377,13 +33500,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_39";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32395,13 +33519,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_40";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32413,13 +33538,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_41";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32431,13 +33557,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_42";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32449,13 +33576,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_43";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32467,13 +33595,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_44";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32485,13 +33614,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_45";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32503,13 +33633,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_46";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32521,13 +33652,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_47";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32539,13 +33671,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_48";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32557,13 +33690,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_49";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32575,13 +33709,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_50";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32593,13 +33728,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_51";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32611,13 +33747,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_52";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32629,13 +33766,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_53";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32647,13 +33785,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_54";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32665,13 +33804,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_55";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32683,13 +33823,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_26";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32701,13 +33842,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_57";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32719,13 +33861,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_58";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32737,13 +33880,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_59";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32755,13 +33899,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_60";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32773,13 +33918,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_61";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32791,13 +33937,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_62";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32809,13 +33956,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_63";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32827,13 +33975,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_64";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32845,13 +33994,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_65";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32863,13 +34013,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_66";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32881,13 +34032,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_67";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32899,13 +34051,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_68";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32917,13 +34070,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_69";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32935,13 +34089,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_70";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32953,13 +34108,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_71";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32971,13 +34127,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_72";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -32989,13 +34146,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_73";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -33007,13 +34165,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_74";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -33025,13 +34184,14 @@ class cfgWeapons
         picture = "\GEARS_USA1\ui\TN_ui.paa";
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
         hiddenSelections[] = {"Camo"};
-        hiddenSelectionsTextures[] = {"\GEARS_USA1\clothing\common\data\suitpack_tn.paa"};
+        hiddenSelectionsTextures[] = {"\GEARS_CORE\clothing\common\data\suitpack_tn.paa"};
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "-";
 			uniformClass = "gear_usa_B_CryeS_TN_75";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 		armor = 0;
 		passthrough = 0.610;
 		};
@@ -33047,9 +34207,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\infantry\CORE\data\infantry_bk_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F_Beta\INDEP\equip_ia_vest02";
 			hiddenSelections[] = {"camo"};
@@ -33066,9 +34227,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\infantry\CORE\data\infantry_bk_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F_Beta\INDEP\equip_ia_vest01";
 			hiddenSelections[] = {"camo"};
@@ -33085,9 +34247,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\infantry\CB\data\infantry_CB_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F_Beta\INDEP\equip_ia_vest02";
 			hiddenSelections[] = {"camo"};
@@ -33104,9 +34267,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\infantry\CB\data\infantry_CB_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F_Beta\INDEP\equip_ia_vest01";
 			hiddenSelections[] = {"camo"};
@@ -33123,9 +34287,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\infantry\OD\data\infantry_OD_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F_Beta\INDEP\equip_ia_vest02";
 			hiddenSelections[] = {"camo"};
@@ -33142,9 +34307,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\infantry\OD\data\infantry_OD_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F_Beta\INDEP\equip_ia_vest01";
 			hiddenSelections[] = {"camo"};
@@ -33161,9 +34327,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\infantry\SG\data\infantry_SG_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F_Beta\INDEP\equip_ia_vest02";
 			hiddenSelections[] = {"camo"};
@@ -33180,9 +34347,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\infantry\SG\data\infantry_SG_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F_Beta\INDEP\equip_ia_vest01";
 			hiddenSelections[] = {"camo"};
@@ -33199,9 +34367,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\infantry\TN\data\infantry_TN_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F_Beta\INDEP\equip_ia_vest02";
 			hiddenSelections[] = {"camo"};
@@ -33218,9 +34387,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\infantry\TN\data\infantry_TN_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F_Beta\INDEP\equip_ia_vest01";
 			hiddenSelections[] = {"camo"};
@@ -33237,9 +34407,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CB\data\platecarrier_CB_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -33255,9 +34426,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CB\data\platecarrier_CB_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -33273,9 +34445,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CB\data\platecarrier_CB_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -33292,9 +34465,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CB\data\platecarrier_CB_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -33310,9 +34484,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CB\data\platecarrier_CB_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -33328,9 +34503,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CB\data\platecarrier_CB_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -33347,9 +34523,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CB\data\platecarrier_CB_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -33365,9 +34542,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CB\data\platecarrier_CB_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -33383,9 +34561,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CB\data\platecarrier_CB_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -33402,9 +34581,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CB\data\platecarrier_CB_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -33420,9 +34600,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CB\data\platecarrier_CB_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -33439,9 +34620,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CB\data\platecarrier_CB_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -33458,9 +34640,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CB\data\platecarrier_CB_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -33476,9 +34659,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CB\data\platecarrier_CB_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -33494,9 +34678,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CB\data\platecarrier_CB_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -33515,6 +34700,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -33533,6 +34719,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -33551,6 +34738,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -33569,6 +34757,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -33587,6 +34776,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -33605,6 +34795,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -33623,6 +34814,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -33641,6 +34833,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -33659,6 +34852,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -33677,6 +34871,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -33693,9 +34888,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\SG\data\platecarrier_SG_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -33711,9 +34907,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\SG\data\platecarrier_SG_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -33729,9 +34926,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\SG\data\platecarrier_SG_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -33748,9 +34946,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\SG\data\platecarrier_SG_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -33766,9 +34965,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\SG\data\platecarrier_SG_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -33784,9 +34984,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\SG\data\platecarrier_SG_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -33803,9 +35004,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\SG\data\platecarrier_SG_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -33821,9 +35023,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\SG\data\platecarrier_SG_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -33839,9 +35042,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\SG\data\platecarrier_SG_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -33858,9 +35062,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\SG\data\platecarrier_SG_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -33876,9 +35081,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\SG\data\platecarrier_SG_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -33895,9 +35101,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\SG\data\platecarrier_SG_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -33914,9 +35121,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\SG\data\platecarrier_SG_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -33932,9 +35140,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\SG\data\platecarrier_SG_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -33950,9 +35159,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\SG\data\platecarrier_SG_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -33971,6 +35181,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -33989,6 +35200,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34007,6 +35219,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34025,6 +35238,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34043,6 +35257,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34061,6 +35276,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34079,6 +35295,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34097,6 +35314,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34115,6 +35333,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34133,6 +35352,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34149,9 +35369,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -34167,9 +35388,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -34185,9 +35407,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -34204,9 +35427,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -34222,9 +35446,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -34240,9 +35465,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -34259,9 +35485,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -34277,9 +35504,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -34295,9 +35523,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -34314,9 +35543,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -34332,9 +35562,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -34351,9 +35582,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -34370,9 +35602,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -34388,9 +35621,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -34406,9 +35640,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\OD\data\platecarrier_OD_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -34427,6 +35662,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34445,6 +35681,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34463,6 +35700,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34481,6 +35719,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34499,6 +35738,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34517,6 +35757,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34535,6 +35776,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34553,6 +35795,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34571,6 +35814,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34589,6 +35833,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34605,9 +35850,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\tn\data\platecarrier_TN_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -34623,9 +35869,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\tn\data\platecarrier_TN_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -34641,9 +35888,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\tn\data\platecarrier_TN_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -34660,9 +35908,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\tn\data\platecarrier_TN_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -34678,9 +35927,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\tn\data\platecarrier_TN_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -34696,9 +35946,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\tn\data\platecarrier_TN_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -34715,9 +35966,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\tn\data\platecarrier_TN_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -34733,9 +35985,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\tn\data\platecarrier_TN_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -34751,9 +36004,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\tn\data\platecarrier_TN_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -34770,9 +36024,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\tn\data\platecarrier_TN_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -34788,9 +36043,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\tn\data\platecarrier_TN_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -34807,9 +36063,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\tn\data\platecarrier_TN_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -34826,9 +36083,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\tn\data\platecarrier_TN_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -34844,9 +36102,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\tn\data\platecarrier_TN_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -34862,9 +36121,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\tn\data\platecarrier_TN_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -34883,6 +36143,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34901,6 +36162,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34919,6 +36181,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34937,6 +36200,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34955,6 +36219,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34973,6 +36238,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -34991,6 +36257,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -35009,6 +36276,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -35027,6 +36295,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -35045,6 +36314,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -35061,9 +36331,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CORE\data\platecarrier_BK_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -35079,9 +36350,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CORE\data\platecarrier_BK_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -35097,9 +36369,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CORE\data\platecarrier_BK_05_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -35116,9 +36389,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CORE\data\platecarrier_BK_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -35134,9 +36408,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CORE\data\platecarrier_BK_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -35152,9 +36427,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CORE\data\platecarrier_BK_04_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -35171,9 +36447,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CORE\data\platecarrier_BK_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -35189,9 +36466,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CORE\data\platecarrier_BK_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -35207,9 +36485,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CORE\data\platecarrier_BK_02_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -35226,9 +36505,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CORE\data\platecarrier_BK_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -35244,9 +36524,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CORE\data\platecarrier_BK_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -35263,9 +36544,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CORE\data\platecarrier_BK_03_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -35282,9 +36564,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CORE\data\platecarrier_BK_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F_EPA\BLUFOR\equip_b_vest_kerry";
 			hiddenSelections[] = {"camo"};
@@ -35300,9 +36583,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CORE\data\platecarrier_BK_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest02";
 			hiddenSelections[] = {"camo"};
@@ -35318,9 +36602,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\platecarrier\CORE\data\platecarrier_BK_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "\A3\Characters_F\BLUFOR\equip_b_vest01";
 			hiddenSelections[] = {"camo"};
@@ -35339,6 +36624,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -35357,6 +36643,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -35375,6 +36662,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -35393,6 +36681,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -35411,6 +36700,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -35429,6 +36719,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -35447,6 +36738,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -35465,6 +36757,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -35483,6 +36776,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_belt";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -35501,6 +36795,7 @@ class cfgWeapons
 			uniformModel = "\A3\Characters_F\BLUFOR\equip_b_bandolier.p3d";
 			containerClass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			armor = 0;
 			passthrough = 0.610;
 			hiddenSelections[] = {"camo"};
@@ -35517,9 +36812,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\tacvest\CB\data\tacvest_CB_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F\Common\equip_tacticalvest";
 			hiddenSelections[] = {"Camo"};
@@ -35536,9 +36832,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\tacvest\SG\data\tacvest_SG_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F\Common\equip_tacticalvest";
 			hiddenSelections[] = {"Camo"};
@@ -35555,9 +36852,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\tacvest\CORE\data\tacvest_bk_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F\Common\equip_tacticalvest";
 			hiddenSelections[] = {"Camo"};
@@ -35574,9 +36872,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\tacvest\OD\data\tacvest_od_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F\Common\equip_tacticalvest";
 			hiddenSelections[] = {"Camo"};
@@ -35593,9 +36892,10 @@ class cfgWeapons
 		hiddenSelectionsTextures[] = {"\GEARS_USA1\armor\tacvest\TN\data\tacvest_TN_01_co.paa"};
 		class ItemInfo: VestItem
 		{
-			armor = 1.5;
+			armor = 30;
 			containerclass = "Supply500";
 			mass = 1;
+            allowedSlots[] = {"701", "801", "901"};
 			passthrough = 0.610;
 			uniformmodel = "A3\Characters_F\Common\equip_tacticalvest";
 			hiddenSelections[] = {"Camo"};
