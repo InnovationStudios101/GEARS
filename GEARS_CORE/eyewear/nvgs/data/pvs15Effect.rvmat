@@ -1,8 +1,11 @@
-ambient[]={0.69999999,0.89999998,0.5,1};
-diffuse[]={0,0,0,1};
-forcedDiffuse[]={1,1,1,1};
-emmisive[]={50,50,50,50};
-specular[]={1,1,1,1};
-specularPower=1;
-PixelShaderID="Normal";
-VertexShaderID="Basic";
+ambient[] = {0.70, 0.90, 0.5, 5};
+diffuse[] = {0.70, 0.90, 0.5, 1};
+forcedDiffuse[] = {0.70, 0.90, 0.5, 1};
+emmisive[] = {70000, 175000, 50000, 1};
+specular[] = {0.70, 0.90, 0.5, 1};
+specularPower = 50;
+renderFlags[] = {
+	"AddBlend"
+};
+PixelShaderID = "Normal";
+VertexShaderID = "Basic";
